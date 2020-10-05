@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: HAI-GEN 2021
+subtitle: IUI 2020 Workshop on Human-AI Co-Creation with Generative Models
 layout: page
 callouts: home_callouts
 show_sidebar: true
