@@ -1,8 +1,8 @@
 ---
 title: HAI-GEN 2021
-subtitle: IUI 2020 Workshop on Human-AI Co-Creation with Generative Models
+subtitle: IUI 2021 Workshop on Human-AI Co-Creation with Generative Models
 layout: page
-callouts: home_callouts
+<!-- callouts: home_callouts -->
 show_sidebar: true
 ---
 
