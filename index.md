@@ -28,7 +28,7 @@ Submissions will take the form of short papers, long papers, and demos, followin
 * Novel, AI-augmented user experiences  that support the creation of physical and/or digital artifacts
 * Business use cases & novel applications of generative models
 * Novel applications of generative models
-* Techniques, methodologies, \& algorithms that enable new user experiences and interactions with generative models and allow for directed and purposeful manipulation of the model output}
+* Techniques, methodologies, & algorithms that enable new user experiences and interactions with generative models and allow for directed and purposeful manipulation of the model output}
 * Issues of governance, privacy, and ownership of AI-generated or human-AI co-created content}
 * Security, including forensic tools and approaches for deep fake detection}
 * Evaluations of human-AI co-creative processes and quality metrics of AI-generated or human-AI co-created content}
