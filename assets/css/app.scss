@@ -4,6 +4,6 @@
 // Import Main CSS file from theme
 @import "main";
 
-.hero {
+.hero.is-primary.is-bold {
   background-image: url("/img/pretty image.jpg");
 }
