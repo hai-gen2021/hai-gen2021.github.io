@@ -1,7 +1,17 @@
 ---
 ---
 
+$primary: hsl(214, 26%, 37%);
+
 // Import Main CSS file from theme
 @import "main";
 
+ul.spaced-list li {
+    padding-bottom: 1em;
+}
 
+.hero {
+    background-image: url("/img/bg.jpeg") !important;
+    background-position: right center !important;
+    background-size: 110%;
+}
