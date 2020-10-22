@@ -21,9 +21,10 @@ The central question of our workshop is  <b>how can we build co-creative systems
 
 # Submissions
 
-Submissions will take the form of short papers, long papers, and demos, following the IUI paper and demo guidelines. Submissions are encouraged, but not limited to, the following topics:
+Submissions will take the form of short papers, long papers, and demos, following the IUI paper and demo guidelines. Please see the [Call for Participation](/cfp) for relevant topics and submission instructions.
 
-
+<!--
+Submissions are encouraged, but not limited to, the following topics:
 
 * Novel, AI-augmented user experiences  that support the creation of physical and/or digital artifacts
 * Business use cases & novel applications of generative models
@@ -34,7 +35,7 @@ Submissions will take the form of short papers, long papers, and demos, followin
 * Evaluations of human-AI co-creative processes and quality metrics of AI-generated or human-AI co-created content}
 * User research on needs & algorithmic requirements for co-creative systems, perceptions of human-AI co-creative systems, trust of co-creative tools & artifacts, and/or implications for HCI theories
 * Lessons learned from computational art & design and generative design, and how these impact research
-
+-->
 
 
 <!-- 
