@@ -1,6 +1,6 @@
 ---
 title: Call for Participation
-subtitle: Submissions Due 23 December 2020 AoE
+subtitle: Papers & Demos
 layout: page
 show_sidebar: true
 ---
