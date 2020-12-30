@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Update 12/18/2020</strong>. We have updated the submission deadline to <strong>January 4, 2021 AoE</strong>.
+    <strong>IUI has updated the general workshop submission deadline to January 15, 2021 AoE</strong>.
     </p>
 </div>
 
