@@ -81,6 +81,7 @@ show_sidebar: false
 * Carrie Cai, Google
 * Nicholas Davis, University of North Carolina, Charlotte
 * Sebastian Gehrmann, Google
+* Katy Gero, Columbia University
 * Kaz Grace, The University of Sydney
 * Anna Kantosalo, Aalto University
 * Michael Muller, IBM Research AI
