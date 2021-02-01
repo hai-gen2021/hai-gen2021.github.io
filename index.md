@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Reviewing is underway! We anticipate reviews will be ready by February 15, 2021.</strong>.
+    <strong>Reviewing is underway! We anticipate reviews will be ready by February 15, 2021.</strong>
     </p>
 </div>
 
