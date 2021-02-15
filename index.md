@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Reviewing is underway! We anticipate reviews will be ready by February 15, 2021.</strong>
+    <strong>Feb 15 Update: Author notifications have been sent out. Congratulations to those whose papers have been accepted! We will release the workshop program soon. Camera-ready papers are now due March 12, 2021.</strong>
     </p>
 </div>
 
