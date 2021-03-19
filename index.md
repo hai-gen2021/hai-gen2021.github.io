@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Feb 15 Update: Author notifications have been sent out. Congratulations to those whose papers have been accepted! We will release the workshop program soon. Camera-ready papers are now due March 12, 2021.</strong>
+    <strong>Mar 19 Update: Thank you for submitting your camera-ready papers. We are finalizing the details of the conference program and will be publishing it soon.</strong>
     </p>
 </div>
 
