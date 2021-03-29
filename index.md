@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Mar 19 Update: Thank you for submitting your camera-ready papers. We are finalizing the details of the conference program and will be publishing it soon.</strong>
+    <strong>Mar 29: We have published the <a href="program/">workshop program</a>.</strong>
     </p>
 </div>
 
