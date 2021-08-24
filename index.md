@@ -8,7 +8,7 @@ show_sidebar: true
 
 <div class="notification is-info">
     <p>
-    <strong>Mar 29: We have published the <a href="program/">workshop program</a>.</strong>
+    <strong>Jul 9: Workshop proceedings have been published in CEUR: <a href="http://ceur-ws.org/Vol-2903/">http://ceur-ws.org/Vol-2903/</a>.</strong>
     </p>
 </div>
 
